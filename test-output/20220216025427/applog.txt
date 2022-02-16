@@ -1,0 +1,9 @@
+INFO    2022-02-16 02:54:33,748 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 02:54:33,748 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 02:54:33 GST 2022
+INFO    2022-02-16 02:54:38,110 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022025438110 browser chrome
+INFO    2022-02-16 02:54:39,123 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022025439123 user go to category list
+INFO    2022-02-16 02:54:40,072 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022025440072 user choose category smart home
+INFO    2022-02-16 02:54:41,132 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 02:54:40 GST 2022
+INFO    2022-02-16 02:54:41,132 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+

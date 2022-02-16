@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="Ooredoo.CustomTestListeners.CustomExecutionListener"/>
+    <listener class-name="Ooredoo.CustomTestListeners.CustomTestListener"/>
+  </listeners>
+  <test thread-count="3" verbose="0" name="testTwo(failed)" parallel="tests">
+    <parameter name="device" value="SM-G965F/DS"/>
+    <classes>
+      <class name="Ooredoo.MobileTest.LoginAsGuestAppExploreTest">
+        <methods>
+          <include name="setup"/>
+          <include name="ExploratoryTest" invocation-numbers="0"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Ooredoo.MobileTest.LoginAsGuestAppExploreTest -->
+    </classes>
+  </test> <!-- testTwo(failed) -->
+  <test thread-count="3" verbose="0" name="testOne(failed)" parallel="tests">
+    <parameter name="device" value="D6503"/>
+    <classes>
+      <class name="Ooredoo.MobileTest.LoginAsGuestAppExploreTest">
+        <methods>
+          <include name="setup"/>
+          <include name="ExploratoryTest" invocation-numbers="0"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Ooredoo.MobileTest.LoginAsGuestAppExploreTest -->
+    </classes>
+  </test> <!-- testOne(failed) -->
+  <test thread-count="3" verbose="0" name="testthree(failed)" parallel="tests">
+    <parameter name="device" value="SM-G935FD"/>
+    <classes>
+      <class name="Ooredoo.MobileTest.LoginAsGuestAppExploreTest">
+        <methods>
+          <include name="setup"/>
+          <include name="ExploratoryTest" invocation-numbers="0"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Ooredoo.MobileTest.LoginAsGuestAppExploreTest -->
+    </classes>
+  </test> <!-- testthree(failed) -->
+</suite> <!-- Failed suite [Suite] -->
