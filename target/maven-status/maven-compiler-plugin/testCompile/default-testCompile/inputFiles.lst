@@ -1,7 +1,9 @@
-C:\Users\gamal.amir\eclipse-workspace\OoredooTest\src\test\java\Ooredoo\MobileTest\LoginAsGuestAppExploreTest.java
-C:\Users\gamal.amir\eclipse-workspace\OoredooTest\src\test\java\Ooredoo\Base\BaseDriver.java
-C:\Users\gamal.amir\eclipse-workspace\OoredooTest\src\test\java\Ooredoo\Base\BaseWeb.java
-C:\Users\gamal.amir\eclipse-workspace\OoredooTest\src\test\java\Ooredoo\WebTest\testRun.java
-C:\Users\gamal.amir\eclipse-workspace\OoredooTest\src\test\java\Ooredoo\Base\BaseMobile.java
-C:\Users\gamal.amir\eclipse-workspace\OoredooTest\src\test\java\Ooredoo\CustomTestListeners\CustomExecutionListener.java
-C:\Users\gamal.amir\eclipse-workspace\OoredooTest\src\test\java\Ooredoo\CustomTestListeners\CustomTestListener.java
+C:\data\acceptenceTests\dummyTwo\src\test\java\com\Tradeling\Base\BaseDriver.java
+C:\data\acceptenceTests\dummyTwo\src\test\java\com\Tradeling\WebTest\CheckFilterByDepartmentInDealsAndPromotionsPage.java
+C:\data\acceptenceTests\dummyTwo\src\test\java\com\Tradeling\WebTest\CheckTheTotalDisplayedNumberResultsForCategory.java
+C:\data\acceptenceTests\dummyTwo\src\test\java\com\Tradeling\WebTest\CheckProductDetailsPage.java
+C:\data\acceptenceTests\dummyTwo\src\test\java\com\Tradeling\CustomTestListeners\CustomTestListener.java
+C:\data\acceptenceTests\dummyTwo\src\test\java\com\Tradeling\Base\BaseWeb.java
+C:\data\acceptenceTests\dummyTwo\src\test\java\com\Tradeling\WebTest\CheckTheSelectedCurrencyDisplayedForProducts.java
+C:\data\acceptenceTests\dummyTwo\src\test\java\com\Tradeling\Base\BaseMobile.java
+C:\data\acceptenceTests\dummyTwo\src\test\java\com\Tradeling\CustomTestListeners\CustomExecutionListener.java

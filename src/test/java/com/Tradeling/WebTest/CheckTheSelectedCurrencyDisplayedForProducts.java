@@ -10,15 +10,15 @@ public class CheckTheSelectedCurrencyDisplayedForProducts extends BaseWeb {
 
     SoftAssert softAssert = new SoftAssert();
 
-    @Test(description = "Check the selected currency displayed for the products")
-    public void Scenario2(ITestContext arg) {
+    @Test(description = "Check The Selected Currency Displayed For Products")
+    public void Scenario3(ITestContext arg) {
         try {
             logInfo("browser " + arg.getCurrentXmlTest().getParameter("browser"));
 
             homePage.changeCurrencyToAED();
             logInfo("user attempt to change currency");
 
-            currencyPage.SelectCurrency("AED - Arab Emirates Dirham");
+            currencyPage.SelectCurrency("AED");
             logInfo("user change currency to AED - Arab Emirates Dirham");
 
             softAssert.assertTrue(homePage.checkSelectedCurrency("United Arab Emirates Dirham"),"User can not change language");

@@ -6,12 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Tradeling" />
+        <module name="dummyTwo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="OoredooTest" target="1.5" />
-      <module name="Tradeling" target="8" />
+      <module name="dummyTwo" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

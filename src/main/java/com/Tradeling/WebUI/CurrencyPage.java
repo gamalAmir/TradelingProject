@@ -4,6 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.Select;
 
 public class CurrencyPage extends BasePage{
     public CurrencyPage(RemoteWebDriver driver) {
@@ -16,6 +17,9 @@ public class CurrencyPage extends BasePage{
     @FindBy(xpath = "//form[@method='post']//span[contains(text(),'Select the currency')]/following-sibling::p//select/following-sibling::span//span[@id='a-autoid-0-announce']")
     private WebElement currencyDDL;
 
+    private WebElement currencyselect(){
+        return driver.findElement(By.xpath("//form[@method='post']//span[contains(text(),'Select the currency')]/following-sibling::p//select/following-sibling::span//span[@id='a-autoid-0-announce']"));
+    }
 
     @FindBy(xpath = "//span[@id='icp-btn-save-announce']")
     private WebElement saveChanges;
@@ -25,10 +29,8 @@ public class CurrencyPage extends BasePage{
     }
 
     public void SelectCurrency(String currency) throws InterruptedException {
-        Thread.sleep(8000);
-        switchToForm(pageForm);
-        clickOnElement(currencyDDL);
-        clickOnElement(currencyItem(currency));
+        Select select = new Select(currencyselect());
+        select.selectByValue(currency);
         clickOnElement(saveChanges);
     }
 }

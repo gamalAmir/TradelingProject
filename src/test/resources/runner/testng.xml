@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite thread-count="1" name="Suite" parallel="tests">
+<suite thread-count="1" name="Suite">
     <listeners>
         <listener
                 class-name="com.Tradeling.CustomTestListeners.CustomExecutionListener"/>
@@ -8,10 +8,34 @@
                 class-name="com.Tradeling.CustomTestListeners.CustomTestListener"/>
     </listeners>
     <test
-            name="Check the total displayed number of results for category Smart Home">
+            name="Check Filter By Department In Deals And Promotions Page">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.Tradeling.WebTest.CheckFilterByDepartmentInDealsAndPromotionsPage"/>
+        </classes>
+    </test>
+
+    <test
+            name="Check Product Details Page">
         <parameter name="browser" value="chrome"/>
         <classes>
             <class name="com.Tradeling.WebTest.CheckProductDetailsPage"/>
+        </classes>
+    </test>
+
+    <test
+            name="Check the selected currency displayed for the products">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.Tradeling.WebTest.CheckTheSelectedCurrencyDisplayedForProducts"/>
+        </classes>
+    </test>
+
+    <test
+            name="Check the total displayed number of results for category Smart Home">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.Tradeling.WebTest.CheckTheTotalDisplayedNumberResultsForCategory"/>
         </classes>
     </test>
 </suite> <!-- Suite -->

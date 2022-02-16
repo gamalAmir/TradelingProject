@@ -14,7 +14,7 @@ public class CheckTheTotalDisplayedNumberResultsForCategory extends BaseWeb {
 
 
 	@Test(description = "Check the total displayed number of results for category Smart Home")
-	public void Scenario1(ITestContext arg) {
+	public void Scenario4(ITestContext arg) {
 		try {
 			logInfo("browser " + arg.getCurrentXmlTest().getParameter("browser"));
 

@@ -51,11 +51,8 @@ public class BasePage {
         elm.click();
     }
 
-    protected void SelectFromDDL(WebElement ddl, String Option) throws InterruptedException {
-        //wait.until(ExpectedConditions.visibilityOf(ddl));
-        Thread.sleep(6000);
-        Select select = new Select(ddl);
-        select.deselectByVisibleText(Option);
+    protected void type(WebElement elm,String txt){
+        elm.sendKeys(txt);
     }
 
     protected void waitForElementToBeDisplayed(WebElement elm){

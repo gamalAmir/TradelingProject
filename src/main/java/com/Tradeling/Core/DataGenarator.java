@@ -16,8 +16,6 @@ public class DataGenarator {
 	    return num_;
 	}
 	
-	public static void main(String[] args) {
-		System.out.println(generateRandomNumberAsString(5));
-	}
+
 
 }

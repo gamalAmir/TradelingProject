@@ -2,10 +2,12 @@ package com.Tradeling.Base;
 
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.logging.Level;
 
 import com.Tradeling.WebUI.CurrencyPage;
 import com.Tradeling.WebUI.DealsPage;
 import com.Tradeling.WebUI.HomePage;
+import com.Tradeling.WebUI.SearchResultsPage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
@@ -21,6 +23,7 @@ public class BaseWeb extends BaseDriver {
 	public HomePage homePage;
 	public DealsPage dealsPage;
 	public CurrencyPage currencyPage;
+	public SearchResultsPage searchResultsPage;
 
 	public void openBrowser(String Browser) throws MalformedURLException {
 		if (Browser.equals(Constants.ExecutionData.ChromeBrowser)) {
@@ -33,6 +36,7 @@ public class BaseWeb extends BaseDriver {
 		homePage = new HomePage(getDriver());
 		dealsPage = new DealsPage(getDriver());
 		currencyPage = new CurrencyPage(getDriver());
+		searchResultsPage = new SearchResultsPage(getDriver());
 	}
 
 	@Parameters({ "browser" })
@@ -40,13 +44,14 @@ public class BaseWeb extends BaseDriver {
 	public void setup(String browser) throws MalformedURLException, Throwable {
 		openBrowser(browser);
 		getDriver().get(Constants.WebTestData.AmazonUrL);
+		getDriver().setLogLevel(Level.ALL);
 		// getDriver().manage().timeouts().implicitlyWait(4, TimeUnit.SECONDS);
 		getDriver().manage().window().maximize();
 	}
 
 	@AfterMethod()
 	public void tearDown() {
-		//getDriver().quit();
+		getDriver().quit();
 	}
 
 	protected void WaitTextDisplayed(String txt) {

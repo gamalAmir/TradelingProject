@@ -3,7 +3,9 @@ package com.Tradeling.WebUI;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.openqa.selenium.remote.RemoteWebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.Select;
 
 import java.util.List;
 
@@ -38,9 +40,15 @@ public class HomePage extends BasePage {
     @FindBy(xpath = "//div[contains(@id,'Card')]/child::div[contains(@class,'result')]/div")
     private List<WebElement> displayedItems;
 
-    @FindBy(id = "searchDropdownBox")
-    private WebElement searchDDL;
+    @FindBy(id = "twotabsearchtextbox")
+    private WebElement searchBox;
 
+    @FindBy(id ="nav-search-submit-button")
+    private WebElement searchBtn;
+
+    private WebElement searchDDL(){
+        return driver.findElement(By.id("searchDropdownBox"));
+    }
     private WebElement sideMenuItem(String itemTxt) {
         return driver.findElement(By.xpath("//div[@id='hmenu-content']//li[(not(contains(@class,'hmenu-separator')))]//div[contains(text(),'" + itemTxt + "')]"));
     }
@@ -86,8 +94,13 @@ public class HomePage extends BasePage {
     }
 
     public void selectSearchOption(String option) throws InterruptedException {
-        waitForElementToBeDisplayed(searchDDL);
-        SelectFromDDL(searchDDL,option);
+        Select select = new Select(searchDDL());
+        select.selectByVisibleText(option);
+    }
+
+    public void typeSearch(String searchQuary){
+        type(searchBox,searchQuary);
+        clickOnElement(searchBtn);
     }
 
     public boolean checkSelectedCurrency(String currency) throws InterruptedException {

@@ -1,6 +1,0 @@
-INFO    2022-02-16 02:17:45,474 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
-
-INFO    2022-02-16 02:17:45,474 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : trivago login test on chrome headless started at Wed Feb 16 02:17:45 GST 2022
-INFO    2022-02-16 02:17:52,824 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : trivago login test on chrome headless finished at Wed Feb 16 02:17:52 GST 2022
-INFO    2022-02-16 02:17:52,824 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
-

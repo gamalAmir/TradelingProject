@@ -1,7 +1,182 @@
-INFO    2022-02-16 05:49:02,269 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+INFO    2022-02-16 09:57:13,724 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
 
-INFO    2022-02-16 05:49:02,269 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 05:49:02 GST 2022
-INFO    2022-02-16 05:49:06,908 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022054906908 browser chrome
-INFO    2022-02-16 05:49:08,833 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 05:49:08 GST 2022
-INFO    2022-02-16 05:49:08,833 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+INFO    2022-02-16 09:57:13,724 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 09:57:13 GST 2022
+INFO    2022-02-16 09:57:16,957 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022095716957 browser chrome
+INFO    2022-02-16 09:57:48,064 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 09:57:47 GST 2022
+INFO    2022-02-16 09:57:48,064 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 09:59:44,118 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 09:59:44,120 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 09:59:44 GST 2022
+INFO    2022-02-16 09:59:47,260 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022095947260 browser chrome
+INFO    2022-02-16 10:00:18,401 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:00:18 GST 2022
+INFO    2022-02-16 10:00:18,401 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:02:31,093 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:02:31,093 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:02:31 GST 2022
+INFO    2022-02-16 10:02:34,748 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022100234748 browser chrome
+INFO    2022-02-16 10:02:34,836 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022100234836 user click on todays deal
+INFO    2022-02-16 10:02:35,774 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:02:35 GST 2022
+INFO    2022-02-16 10:02:35,774 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:05:03,209 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:05:03,209 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:05:03 GST 2022
+INFO    2022-02-16 10:05:06,215 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022100506215 browser chrome
+INFO    2022-02-16 10:05:07,252 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:05:07 GST 2022
+INFO    2022-02-16 10:05:07,252 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:07:08,002 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:07:08,002 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:07:07 GST 2022
+INFO    2022-02-16 10:07:08,324 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:07:08 GST 2022
+INFO    2022-02-16 10:07:08,324 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:07:19,618 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:07:19,619 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:07:19 GST 2022
+INFO    2022-02-16 10:07:22,663 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022100722663 browser chrome
+INFO    2022-02-16 10:07:22,795 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022100722795 user click on todays deal
+INFO    2022-02-16 10:07:23,723 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:07:23 GST 2022
+INFO    2022-02-16 10:07:23,723 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:15:14,130 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:15:14,131 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:15:14 GST 2022
+INFO    2022-02-16 10:15:17,092 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022101517092 browser chrome
+INFO    2022-02-16 10:15:17,224 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022101517224 user select electronics from search dropdownList
+INFO    2022-02-16 10:15:19,643 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022101519643 user type apple to search on
+INFO    2022-02-16 10:15:20,599 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:15:20 GST 2022
+INFO    2022-02-16 10:15:20,599 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:22:03,987 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:22:03,988 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:22:03 GST 2022
+INFO    2022-02-16 10:22:04,316 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:22:04 GST 2022
+INFO    2022-02-16 10:22:04,316 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:22:20,294 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:22:20,294 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:22:20 GST 2022
+INFO    2022-02-16 10:22:23,310 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102223310 browser chrome
+INFO    2022-02-16 10:22:23,421 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102223421 user select electronics from search dropdownList
+INFO    2022-02-16 10:22:25,771 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102225771 user type apple to search on
+INFO    2022-02-16 10:22:26,696 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:22:26 GST 2022
+INFO    2022-02-16 10:22:26,696 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:23:46,507 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:23:46,507 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:23:46 GST 2022
+INFO    2022-02-16 10:23:49,553 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102349553 browser chrome
+INFO    2022-02-16 10:23:49,663 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102349663 user select electronics from search dropdownList
+INFO    2022-02-16 10:23:52,046 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102352046 user type apple to search on
+INFO    2022-02-16 10:23:53,005 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:23:52 GST 2022
+INFO    2022-02-16 10:23:53,005 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:24:49,294 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:24:49,294 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:24:49 GST 2022
+INFO    2022-02-16 10:24:52,559 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102452559 browser chrome
+INFO    2022-02-16 10:24:52,688 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102452688 user select electronics from search dropdownList
+INFO    2022-02-16 10:24:54,790 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102454790 user type apple to search on
+INFO    2022-02-16 10:25:25,999 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:25:25 GST 2022
+INFO    2022-02-16 10:25:25,999 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:26:04,412 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:26:04,412 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:26:04 GST 2022
+INFO    2022-02-16 10:26:07,579 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102607579 browser chrome
+INFO    2022-02-16 10:26:07,709 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102607709 user select electronics from search dropdownList
+INFO    2022-02-16 10:26:09,891 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102609891 user type apple to search on
+INFO    2022-02-16 10:26:12,149 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102612149 user select first searchResult
+INFO    2022-02-16 10:26:12,973 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:26:12 GST 2022
+INFO    2022-02-16 10:26:12,973 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:27:13,871 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:27:13,872 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:27:13 GST 2022
+INFO    2022-02-16 10:27:16,946 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102716946 browser chrome
+INFO    2022-02-16 10:27:17,057 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102717057 user select electronics from search dropdownList
+INFO    2022-02-16 10:27:19,046 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102719046 user type apple to search on
+INFO    2022-02-16 10:27:21,742 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022102721742 user select first searchResult
+INFO    2022-02-16 10:27:22,588 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:27:22 GST 2022
+INFO    2022-02-16 10:27:22,588 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:44:02,073 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:44:02,074 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:44:02 GST 2022
+INFO    2022-02-16 10:44:05,080 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022104405080 browser chrome
+INFO    2022-02-16 10:44:05,215 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022104405215 user select electronics from search dropdownList
+INFO    2022-02-16 10:44:07,823 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022104407823 user type apple to search on
+INFO    2022-02-16 10:44:08,777 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:44:08 GST 2022
+INFO    2022-02-16 10:44:08,777 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:46:36,938 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:46:36,938 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:46:36 GST 2022
+INFO    2022-02-16 10:46:39,909 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022104639909 browser chrome
+INFO    2022-02-16 10:46:40,026 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022104640026 user select electronics from search dropdownList
+INFO    2022-02-16 10:46:42,194 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022104642194 user type apple to search on
+INFO    2022-02-16 10:46:42,239 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022104642239 user select first searchResult
+INFO    2022-02-16 10:46:43,136 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:46:42 GST 2022
+INFO    2022-02-16 10:46:43,136 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:47:30,430 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:47:30,430 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:47:30 GST 2022
+INFO    2022-02-16 10:47:33,395 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022104733395 browser chrome
+INFO    2022-02-16 10:47:33,512 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022104733512 user select electronics from search dropdownList
+INFO    2022-02-16 10:47:36,034 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022104736034 user type apple to search on
+INFO    2022-02-16 10:47:40,147 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022104740147 user select first searchResult
+INFO    2022-02-16 10:47:41,073 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:47:40 GST 2022
+INFO    2022-02-16 10:47:41,074 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:56:51,840 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:56:51,841 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:56:51 GST 2022
+INFO    2022-02-16 10:56:54,907 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022105654907 browser chrome
+INFO    2022-02-16 10:56:55,025 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022105655025 user select electronics from search dropdownList
+INFO    2022-02-16 10:56:57,396 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022105657396 user type apple to search on
+INFO    2022-02-16 10:57:00,979 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022105700979 user select first searchResult
+INFO    2022-02-16 10:57:01,954 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:57:01 GST 2022
+INFO    2022-02-16 10:57:01,954 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:57:43,741 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:57:43,741 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:57:43 GST 2022
+INFO    2022-02-16 10:57:46,802 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022105746802 browser chrome
+INFO    2022-02-16 10:57:46,921 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022105746921 user select electronics from search dropdownList
+INFO    2022-02-16 10:57:49,381 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022105749381 user type apple to search on
+INFO    2022-02-16 10:57:53,205 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022105753205 user select first searchResult
+INFO    2022-02-16 10:57:54,028 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Exception thrown at Test Case Scenario2 [org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:43), com.Tradeling.WebTest.CheckProductDetailsPage.Scenario2(CheckProductDetailsPage.java:30), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:568), org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124), org.testng.internal.Invoker.invokeMethod(Invoker.java:583), org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719), org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989), org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125), org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109), org.testng.TestRunner.privateRun(TestRunner.java:648), org.testng.TestRunner.run(TestRunner.java:505), org.testng.SuiteRunner.runTest(SuiteRunner.java:455), org.testng.SuiteRunner.access$000(SuiteRunner.java:40), org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489), org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52), java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264), java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136), java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635), java.base/java.lang.Thread.run(Thread.java:833)]
+INFO    2022-02-16 10:57:54,028 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:57:54,168 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 10:57:54 GST 2022
+INFO    2022-02-16 10:57:54,168 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:59:30,562 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 10:59:30,562 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 10:59:30 GST 2022
+INFO    2022-02-16 10:59:33,451 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022105933450 browser chrome
+INFO    2022-02-16 10:59:33,559 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022105933559 user select electronics from search dropdownList
+INFO    2022-02-16 11:00:44,578 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 11:00:44,579 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 11:00:44 GST 2022
+INFO    2022-02-16 11:00:48,301 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022110048301 browser chrome
+INFO    2022-02-16 11:00:48,429 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022110048429 user select electronics from search dropdownList
+INFO    2022-02-16 11:00:50,694 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022110050694 user type apple to search on
+INFO    2022-02-16 11:00:56,932 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022110056932 user select first searchResult
+INFO    2022-02-16 11:00:57,728 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Exception thrown at Test Case Scenario2 [org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:43), com.Tradeling.WebTest.CheckProductDetailsPage.Scenario2(CheckProductDetailsPage.java:30), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:568), org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124), org.testng.internal.Invoker.invokeMethod(Invoker.java:583), org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719), org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989), org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125), org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109), org.testng.TestRunner.privateRun(TestRunner.java:648), org.testng.TestRunner.run(TestRunner.java:505), org.testng.SuiteRunner.runTest(SuiteRunner.java:455), org.testng.SuiteRunner.access$000(SuiteRunner.java:40), org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489), org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52), java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264), java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136), java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635), java.base/java.lang.Thread.run(Thread.java:833)]
+INFO    2022-02-16 11:00:57,728 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 11:00:57,875 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 11:00:57 GST 2022
+INFO    2022-02-16 11:00:57,875 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 11:06:43,173 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
+
+INFO    2022-02-16 11:06:43,174 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home started at Wed Feb 16 11:06:43 GST 2022
+INFO    2022-02-16 11:06:46,508 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - in test timing::02162022110646508 browser chrome
+INFO    2022-02-16 11:06:48,386 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - Test Suite : Check the total displayed number of results for category Smart Home finished at Wed Feb 16 11:06:48 GST 2022
+INFO    2022-02-16 11:06:48,386 [TestNG-tests-1] com.Tradeling.Base.BaseDriver  - 
 

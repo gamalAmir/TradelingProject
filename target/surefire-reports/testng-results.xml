@@ -1,99 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="44642" started-at="2020-03-10T10:41:55Z" finished-at="2020-03-10T10:42:40Z">
+  <suite started-at="2022-02-16T05:43:51Z" name="Suite" finished-at="2022-02-16T05:44:25Z" duration-ms="33960">
     <groups>
     </groups>
-    <test name="testTwo" duration-ms="31611" started-at="2020-03-10T10:41:55Z" finished-at="2020-03-10T10:42:27Z">
-      <class name="Ooredoo.MobileTest.LoginAsGuestAppExploreTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Ooredoo.MobileTest.LoginAsGuestAppExploreTest@6e20b53a]" name="setup" is-config="true" duration-ms="10363" started-at="2020-03-10T10:41:56Z" finished-at="2020-03-10T10:42:06Z">
+    <test started-at="2022-02-16T05:43:51Z" name="Check the total displayed number of results for category Smart Home" finished-at="2022-02-16T05:44:25Z" duration-ms="33960">
+      <class name="com.Tradeling.WebTest.CheckProductDetailsPage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.Tradeling.WebTest.CheckProductDetailsPage@5f20155b]" started-at="2022-02-16T05:43:51Z" name="setup" finished-at="2022-02-16T05:43:54Z" duration-ms="2944" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[SM-G965F/DS]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="ExploratoryTest(org.testng.ITestContext)[pri:0, instance:Ooredoo.MobileTest.LoginAsGuestAppExploreTest@6e20b53a]" name="ExploratoryTest" duration-ms="19435" started-at="2020-03-10T10:42:06Z" description="check that guest user is able to access all application sections" finished-at="2020-03-10T10:42:25Z">
+        <test-method signature="Scenario2(org.testng.ITestContext)[pri:0, instance:com.Tradeling.WebTest.CheckProductDetailsPage@5f20155b]" started-at="2022-02-16T05:43:54Z" name="Scenario2" description="Check filter by department in Deals and Promotions page" finished-at="2022-02-16T05:44:24Z" duration-ms="30129" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@4d5fbea5]]>
+                <![CDATA[org.testng.TestRunner@4412186f]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ExploratoryTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Ooredoo.MobileTest.LoginAsGuestAppExploreTest@6e20b53a]" name="tearDown" is-config="true" duration-ms="785" started-at="2020-03-10T10:42:26Z" finished-at="2020-03-10T10:42:27Z">
+        </test-method> <!-- Scenario2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Tradeling.WebTest.CheckProductDetailsPage@5f20155b]" started-at="2022-02-16T05:44:25Z" name="tearDown" finished-at="2022-02-16T05:44:25Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- Ooredoo.MobileTest.LoginAsGuestAppExploreTest -->
-    </test> <!-- testTwo -->
-    <test name="testOne" duration-ms="43142" started-at="2020-03-10T10:41:55Z" finished-at="2020-03-10T10:42:39Z">
-      <class name="Ooredoo.MobileTest.LoginAsGuestAppExploreTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Ooredoo.MobileTest.LoginAsGuestAppExploreTest@5f058f00]" name="setup" is-config="true" duration-ms="14149" started-at="2020-03-10T10:41:56Z" finished-at="2020-03-10T10:42:10Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[D6503]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="ExploratoryTest(org.testng.ITestContext)[pri:0, instance:Ooredoo.MobileTest.LoginAsGuestAppExploreTest@5f058f00]" name="ExploratoryTest" duration-ms="26066" started-at="2020-03-10T10:42:10Z" description="check that guest user is able to access all application sections" finished-at="2020-03-10T10:42:36Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[org.testng.TestRunner@7350947e]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- ExploratoryTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Ooredoo.MobileTest.LoginAsGuestAppExploreTest@5f058f00]" name="tearDown" is-config="true" duration-ms="1436" started-at="2020-03-10T10:42:37Z" finished-at="2020-03-10T10:42:39Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- Ooredoo.MobileTest.LoginAsGuestAppExploreTest -->
-    </test> <!-- testOne -->
-    <test name="testthree" duration-ms="44642" started-at="2020-03-10T10:41:55Z" finished-at="2020-03-10T10:42:40Z">
-      <class name="Ooredoo.MobileTest.LoginAsGuestAppExploreTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Ooredoo.MobileTest.LoginAsGuestAppExploreTest@47af7f3d]" name="setup" is-config="true" duration-ms="12726" started-at="2020-03-10T10:41:56Z" finished-at="2020-03-10T10:42:08Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[SM-G935FD]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="ExploratoryTest(org.testng.ITestContext)[pri:0, instance:Ooredoo.MobileTest.LoginAsGuestAppExploreTest@47af7f3d]" name="ExploratoryTest" duration-ms="30514" started-at="2020-03-10T10:42:08Z" description="check that guest user is able to access all application sections" finished-at="2020-03-10T10:42:39Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[org.testng.TestRunner@3f1b46ad]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- ExploratoryTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Ooredoo.MobileTest.LoginAsGuestAppExploreTest@47af7f3d]" name="tearDown" is-config="true" duration-ms="335" started-at="2020-03-10T10:42:40Z" finished-at="2020-03-10T10:42:40Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- Ooredoo.MobileTest.LoginAsGuestAppExploreTest -->
-    </test> <!-- testthree -->
+      </class> <!-- com.Tradeling.WebTest.CheckProductDetailsPage -->
+    </test> <!-- Check the total displayed number of results for category Smart Home -->
   </suite> <!-- Suite -->
 </testng-results>
