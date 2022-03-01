@@ -38,4 +38,5 @@
             <class name="com.Tradeling.WebTest.CheckTheTotalDisplayedNumberResultsForCategory"/>
         </classes>
     </test>
+
 </suite> <!-- Suite -->

@@ -16,6 +16,12 @@
 		</dependency>
 
 		<dependency>
+			<groupId>com.microsoft.playwright</groupId>
+			<artifactId>playwright</artifactId>
+			<version>1.17.1</version>
+		</dependency>
+
+		<dependency>
 			<groupId>org.awaitility</groupId>
 			<artifactId>awaitility-proxy</artifactId>
 			<version>3.0.0</version>

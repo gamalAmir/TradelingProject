@@ -30,7 +30,7 @@
             <class name="com.Tradeling.WebTest.CheckTheSelectedCurrencyDisplayedForProducts"/>
         </classes>
     </test>
-    
+
     <test
             name="Check the total displayed number of results for category Smart Home">
         <parameter name="browser" value="chrome"/>
@@ -38,4 +38,5 @@
             <class name="com.Tradeling.WebTest.CheckTheTotalDisplayedNumberResultsForCategory"/>
         </classes>
     </test>
+
 </suite> <!-- Suite -->
